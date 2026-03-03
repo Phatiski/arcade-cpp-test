@@ -9,6 +9,7 @@
         "main.ts",
         "README.md",
         "assets.json",
+        "shim.d.ts",
         "main.cpp"
     ],
     "testFiles": [
