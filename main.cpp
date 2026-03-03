@@ -1,6 +1,8 @@
 
 #include "pxt.h"
 
+//using namespace pxt;
+
 namespace cpp_test {
 /*
     int imul(int x, int b) {
@@ -8,8 +10,8 @@ namespace cpp_test {
     };
 */
     //%
-    long imul(long a, long b) {
-        return a * b;
+    double imul(double a, double b) {
+        return static_int<a * b>;
     };
     
     //%

@@ -7,11 +7,11 @@
     "files": [
         "shims.d.ts",
         "enums.d.ts",
+        "main.cpp",
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json",
-        "main.cpp"
+        "assets.json"
     ],
     "testFiles": [
         "test.ts"
