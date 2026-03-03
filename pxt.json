@@ -5,18 +5,19 @@
         "device": "*"
     },
     "files": [
+        "shims.d.ts",
+        "enums.d.ts",
         "main.blocks",
         "main.ts",
         "README.md",
         "assets.json",
-        "shim.d.ts",
         "main.cpp"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.8",
+        "target": "4.0.10",
         "targetId": "arcade"
     },
     "supportedTargets": [
